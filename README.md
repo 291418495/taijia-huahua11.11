@@ -1,7 +1,7 @@
 dsd
 nihao
 
-新功能B
+new B
 
 blue do D
 red do C
